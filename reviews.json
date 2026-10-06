@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T09:58:51.731Z",
+ "updated": "2026-10-06T10:12:11.915Z",
  "source": "Airbnb",
  "note": "5-star reviews of Winry Stays' Tallahassee listings. All reviews, including lower ratings, are on the Airbnb profile.",
  "profileUrl": "https://www.airbnb.com/users/show/1470250776314966495",
@@ -11,13 +11,6 @@
    "createdAt": "2026-09-04T12:51:46Z",
    "text": "The home was spacious, comfortable, and in a convenient location. It worked well for our group and had everything we needed. Overall, we enjoyed our stay.",
    "listingId": "1302764407746972346"
-  },
-  {
-   "id": "1758671422905913770",
-   "name": "Luis",
-   "createdAt": "2026-08-23T12:06:10Z",
-   "text": "Excellent location and good size house.\nIt served well for our purpose, we needed a quiet place to rest at night, to cook breakfast and dinner, and be close to FSU as we were helping our daughters move into an apartment they rented for the school year.\nOf the things I appreciated were the bathrooms and mattresses. Clean and plenty of hot water to decompress after a long day, and the mattresses were really comfortable, inviting staying in bed a bit longer in the mornings. No shortage of towels and clean linens.\nIt is an older home and would benefit from small touch-ups.\nI would like to see a little more comfortable living area, and the upholstery could benefit from a deeper cleaning, light colors are unforgiving.\nClosets are spacious, stairs are somewhat steep, no problem for us but maybe not for older guests. Fortunately a first floor bedroom solves that issue.\nThe host was very responsive, great communication. I sent him a list with my recommendations and he was very receptive.",
-   "listingId": "1730690889269706215"
   },
   {
    "id": "1756598918660826004",
@@ -423,6 +416,13 @@
    "name": "Karai",
    "createdAt": "2025-03-17T17:29:15Z",
    "text": "Yu’s place was great stay at for our visit to Tallahassee. The home was full of open space for my family to enjoy together. This is a good place to stay for a family visiting Tallahassee for the first time.",
+   "listingId": "1036609153622081826"
+  },
+  {
+   "id": "1357339582745044323",
+   "name": "April",
+   "createdAt": "2025-02-15T18:31:27Z",
+   "text": "Spacious, clean home in a good location. Thanks again for everything!",
    "listingId": "1036609153622081826"
   }
  ]
